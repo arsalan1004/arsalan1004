@@ -1,23 +1,47 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Arsalan</h1>
-<h3 align="center">Crafting Backends with Excellence in mind.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
-- 🔭 I’m currently working on [Neocura](https://github.com/arsalan1004/NeoCura)
-- 🔭 I’m currently working on [Neocura]([https://github.com/arsalan1004/NeoCura](https://www.linkedin.com/in/syed-arsalan-79a436247/))
+<h1>Hi There, I'm Arsalan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🌱 I’m currently learning **Backend Development with ExpressJs Course by Maximillian Schwarzmüller, plus I am speeding up on the NestJs framework to take my Backend Expertise up a notch.**
+I'm a Backend Developer looking crafting servers with excellence.
 
-- 💬 Ask me about **NodeJs, ExpressJs, PostgreSQL, MongoDb**
+## Skill Set :muscle:
 
-- ⚡ Fun fact **Movies are my ultimate escape, and I savor every moment on the cinematic journey.**
+These are some of the major technologies that I use or have worked on in the past:
 
-<h3 align="left">Connect with me:</h3>
+**Programming Languages**
 
-- For LinkedIn, click [here](https://www.linkedin.com/in/syed-arsalan-79a436247/) <br>
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="cpp" alt="cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
+|--|--|--|--|
 
-- <b>Porfolio:- </b> Coming Soon...
+**Libraries and Frameworks**
+
+<img title="nodejs" alt="TensorFlow" width="40px" src="https://skills.thijs.gg/icons?i=nodejs">|<img title="expressjs" alt="expressjs" width="40px" src="https://skills.thijs.gg/icons?i=express">|<img title="Nest" alt="nest" width="40px" src="https://skills.thijs.gg/icons?i=nextjs">|<img title="react" alt="react" width="40px" src="https://skills.thijs.gg/icons?i=react">|<img title="Deno" alt="Deno" width="40px" src="https://skills.thijs.gg/icons?i=deno">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
+|--|--|--|--|--|--|
+
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://skills.thijs.gg/icons?i=mysql">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="PostgreSQL" alt="ElasticSearch" width="40px" src="https://skills.thijs.gg/icons?i=postgres">|<img title="firebase" alt="firebase" width="40px" src="https://skills.thijs.gg/icons?i=firebase"><br>
+|--|--|--|--|
+
+**Tools**
+
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|--|--|--|
+<br>
+
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=arsalan1004&show_icons=true&theme=radical&include_all_commits=true">|
+|--|
+
+<br>
+<img align="center" alt="Arsalan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan1004&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
+</a> &nbsp;
+<a href="mailto:s.ehtesham.n@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
