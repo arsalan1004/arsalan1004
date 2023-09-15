@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Arsalan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a Backend Developer looking crafting servers with excellence.
+I'm a Backend Developer crafting servers with excellence.
 
 ## Skill Set :muscle:
 
