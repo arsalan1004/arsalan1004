@@ -14,7 +14,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="nodejs" alt="TensorFlow" width="40px" src="https://skills.thijs.gg/icons?i=nodejs">|<img title="expressjs" alt="expressjs" width="40px" src="https://skills.thijs.gg/icons?i=express">|<img title="Nest" alt="nest" width="40px" src="https://skills.thijs.gg/icons?i=nextjs">|<img title="react" alt="react" width="40px" src="https://skills.thijs.gg/icons?i=react">|<img title="Deno" alt="Deno" width="40px" src="https://skills.thijs.gg/icons?i=deno">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
+<img title="nodejs" alt="TensorFlow" width="40px" src="https://skills.thijs.gg/icons?i=nodejs">|<img title="expressjs" alt="expressjs" width="40px" src="https://skills.thijs.gg/icons?i=express">|<img title="Nest" alt="nest" width="40px" src="https://skills.thijs.gg/icons?i=nestjs">|<img title="react" alt="react" width="40px" src="https://skills.thijs.gg/icons?i=react">|<img title="Deno" alt="Deno" width="40px" src="https://skills.thijs.gg/icons?i=deno">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
 |--|--|--|--|--|--|
 
 **Databases**
