@@ -1,9 +1,17 @@
-
 <h1>Hi There, I'm Arsalan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a Backend Developer crafting servers with excellence.
 
-## Skill Set :muscle:
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
+</a> &nbsp;
+<a href="mailto:s.ehtesham.n@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+
+## Skill Set:
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -37,11 +45,4 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="center" alt="Arsalan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan1004&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 
 
-## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
-</a> &nbsp;
-<a href="mailto:s.ehtesham.n@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
