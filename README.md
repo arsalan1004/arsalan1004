@@ -3,10 +3,10 @@ I'm Arsalan, a prudent and zealous software developer.
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
+<a href="https://www.linkedin.com/in/syed-arsalan-79a436247/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
 </a> &nbsp;
-<a href="mailto:s.ehtesham.n@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+<a href="mailto:arsalan.syedn@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
