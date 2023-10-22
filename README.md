@@ -1,8 +1,7 @@
-<h1>Hi There, I'm Arsalan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+# 💫 Hi Fellow Developers
+I'm Arsalan, a prudent and zealous software developer.
 
-I'm a Backend Developer crafting servers with excellence.
-
-## Let's Connect :handshake:
+## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/syed-ehtesham/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
@@ -11,38 +10,39 @@ I'm a Backend Developer crafting servers with excellence.
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
-## Skill Set:
+# 💻 Tech Stack:
+<h3>Languages</h3>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cs" alt="Python"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=php" alt="Python"/></code>
 
-These are some of the major technologies that I use or have worked on in the past:
+<h3>Frameworks, Platforms, and Libraries</h3>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=redux" alt="redux"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=django" alt="mui"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=pug" alt="mui"/></code>
+<code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205143845-de04f781-8bd9-40b5-89a7-7d1c98e450f9.png" alt="bootstrap"/></code>
+<h3>Databases</h3>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=postgres" alt="postgres"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mysql" alt="mongodb"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=firebase" alt="firebase"/></code>
 
-**Programming Languages**
+<h3>Other</h3>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=postman" alt="linux"/></code>
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="cpp" alt="cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
-|--|--|--|--|
+# 📊 GitHub Stats:
 
-**Libraries and Frameworks**
+![](https://github-readme-stats.vercel.app/api?username=arsalan1004&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arsalan1004&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan1004&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<img title="nodejs" alt="TensorFlow" width="40px" src="https://skills.thijs.gg/icons?i=nodejs">|<img title="expressjs" alt="expressjs" width="40px" src="https://skills.thijs.gg/icons?i=express">|<img title="Nest" alt="nest" width="40px" src="https://skills.thijs.gg/icons?i=nestjs">|<img title="react" alt="react" width="40px" src="https://skills.thijs.gg/icons?i=react">|<img title="Deno" alt="Deno" width="40px" src="https://skills.thijs.gg/icons?i=deno">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
-|--|--|--|--|--|--|
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arsalan1004&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-**Databases**
-
-<img title="SQL" alt="SQL" width="40px" src="https://skills.thijs.gg/icons?i=mysql">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="PostgreSQL" alt="ElasticSearch" width="40px" src="https://skills.thijs.gg/icons?i=postgres">|<img title="firebase" alt="firebase" width="40px" src="https://skills.thijs.gg/icons?i=firebase"><br>
-|--|--|--|--|
-
-**Tools**
-
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|
-<br>
-
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=arsalan1004&show_icons=true&theme=radical&include_all_commits=true">|
-|--|
-
-<br>
-<img align="center" alt="Arsalan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan1004&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
