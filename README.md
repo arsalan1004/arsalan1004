@@ -1,5 +1,5 @@
 # 💫 Hi Fellow Developers
-I'm Arsalan, a prudent and zealous software developer.
+I'm Arsalan, a software engineering undergraduate student.
 
 ## 🌐 Socials:
 
