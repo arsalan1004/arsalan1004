@@ -43,7 +43,7 @@ I'm Arsalan, a software engineering undergraduate student.
 
 ![](https://github-readme-stats.vercel.app/api?username=arsalan1004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arsalan1004&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan1004&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan1004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arsalan1004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
