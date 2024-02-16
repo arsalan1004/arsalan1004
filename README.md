@@ -15,10 +15,10 @@ I'm Arsalan, a software engineering undergraduate student.
 
 # 💻 Tech Stack:
 <h3>Languages</h3>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cs" alt="Python"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cs" alt="Python"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=php" alt="Python"/></code>
 
 <h3>Frameworks, Platforms, and Libraries</h3>
@@ -26,8 +26,8 @@ I'm Arsalan, a software engineering undergraduate student.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=redux" alt="redux"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=django" alt="mui"/></code>
+<code><img width="40px" height="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=pug" alt="mui"/></code>
 <code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205143845-de04f781-8bd9-40b5-89a7-7d1c98e450f9.png" alt="bootstrap"/></code>
 <h3>Databases</h3>
