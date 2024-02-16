@@ -22,6 +22,7 @@ I'm Arsalan, a software engineering undergraduate student.
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=php" alt="Python"/></code>
 
 <h3>Frameworks, Platforms, and Libraries</h3>
+<code><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
