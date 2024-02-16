@@ -39,6 +39,7 @@ I'm Arsalan, a software engineering undergraduate student.
 <h3>Other</h3>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
 <code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=postman" alt="linux"/></code>
+<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=linux" alt="linux"/></code>
 
 # 📊 GitHub Stats:
 
