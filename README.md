@@ -15,36 +15,42 @@ I'm Arsalan, a software engineering undergraduate student.
 
 # 💻 Tech Stack:
 <h3>Languages</h3>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cs" alt="Python"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=php" alt="Python"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=cs" alt="Python"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=php" alt="Python"/></code>
 
 <h3>Frameworks, Platforms, and Libraries</h3>
-<code><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=django" alt="mui"/></code>
-<code><img width="40px" height="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"/></code>
-<code><img width="40px" height="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"/></code>
-<code><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg"alt="mui"/></code>
-<code><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" alt="mui"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=dotnet" /></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=express" alt="expressjs"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=react" alt="react"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=django" alt="mui"/></code>
 
+<br>
+<br>
+<code><img width="50px" height="50px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="efcore"/></code>
+<code><img width="50px" height="50px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"/></code>
+<code><img width="50px" height="50px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"/></code>
+<code><img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" alt="mui"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=pug" alt="mui"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=bootstrap" alt="bootstrap"/></code>
 
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=pug" alt="mui"/></code>
-<code><img width="40px" height="40px" src="https://user-images.githubusercontent.com/72091404/205143845-de04f781-8bd9-40b5-89a7-7d1c98e450f9.png" alt="bootstrap"/></code>
+<br>
+<br>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=vercel" alt="vercel"/></code>
+
 <h3>Databases</h3>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=postgres" alt="postgres"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mysql" alt="mongodb"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=firebase" alt="firebase"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=postgres" alt="postgres"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=mysql" alt="mongodb"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=firebase" alt="firebase"/></code>
 
 <h3>Other</h3>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=postman" alt="linux"/></code>
-<code><img width="40px" height="40px" src="https://skills.thijs.gg/icons?i=linux" alt="linux"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=postman" alt="linux"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=linux" alt="linux"/></code>
 
 # 📊 GitHub Stats:
 
