@@ -46,6 +46,7 @@ I'm Arsalan, a software engineering undergraduate student.
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=mysql" alt="mongodb"/></code>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></code>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=firebase" alt="firebase"/></code>
+<code><img width="50px" height="50px" src="https://tribes.agency/wp-content/uploads/2023/10/ext-550.png" alt="sqlserver"/></code>
 
 <h3>Other</h3>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
