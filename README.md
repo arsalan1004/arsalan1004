@@ -16,6 +16,7 @@ I'm Arsalan, a software engineering undergraduate student.
 # 💻 Tech Stack:
 <h3>Languages</h3>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=cs" alt="Python"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=ts" alt="ts"/></code>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=javascript" alt="javascript"/></code>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=cpp" alt="Cpp"/></code>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=python" alt="Python"/></code>
@@ -34,11 +35,12 @@ I'm Arsalan, a software engineering undergraduate student.
 <code><img width="50px" height="50px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"/></code>
 <code><img width="50px" height="50px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"/></code>
 <code><img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" alt="mui"/></code>
-<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=pug" alt="mui"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=npm" alt="mui"/></code>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=bootstrap" alt="bootstrap"/></code>
 
 <br>
 <br>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=tailwindcss" alt="tailwindcss"/></code>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=vercel" alt="vercel"/></code>
 
 <h3>Databases</h3>
@@ -50,8 +52,9 @@ I'm Arsalan, a software engineering undergraduate student.
 
 <h3>Other</h3>
 <code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=git" alt="git"/></code>
-<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=postman" alt="linux"/></code>
-<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=linux" alt="linux"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=postman" alt="postman"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=mint" alt="mint"/></code>
+<code><img width="50px" height="50px" src="https://skills.thijs.gg/icons?i=latex" alt="latex"/></code>
 
 # 📊 GitHub Stats:
 
