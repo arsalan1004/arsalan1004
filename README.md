@@ -1,8 +1,5 @@
 # 💫 Hi Fellow Developers
-I'm Arsalan, a software engineering undergraduate student.
-
-## My Portfolio:
-<h3>https://syedarsalan.vercel.app/</h3>
+I'm Arsalan, a software engineer.
 
 ## 🌐 Socials:
 
